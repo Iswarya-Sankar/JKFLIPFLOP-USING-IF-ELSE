@@ -34,8 +34,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 module ex7(J,K,Qt,Y); input J,K,Qt; output Y; assign Y = J & ~Qt | ~K & Qt; endmodule
-
-
+Developed by: Iswarya-S
+Register Number: 25016326
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/40ac8a03-bdde-41be-a364-a13b79061062" />
 
