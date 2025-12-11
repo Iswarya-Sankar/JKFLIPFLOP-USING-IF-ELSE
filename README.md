@@ -41,7 +41,8 @@ output Y;
 assign Y = J & ~Qt | ~K & Qt;
 endmodule 
 
-
+Developed by Iswarya-S
+Register Number: 25016476
 
 
 **RTL LOGIC FOR FLIPFLOPS**
